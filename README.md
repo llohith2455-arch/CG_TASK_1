@@ -1,3 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Meets Intelligence | Interactive Web</title>
+</head>
+<body>
+
+    <header>
+        <h1>Where Data Meets Intelligence</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Project Objective</h2>
+            <p>Building a responsive and interactive website that bridges the gap between raw data and intelligent user interfaces.</p>
+        </section>
+        <section>
+            <h2>Visualizing the Concept</h2>
+            <img src="C:\Users\Anjugowda\Downloads\img.jpg" alt="Data Intelligence Visualization" width="600">
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Interactive Website Development Project</p>
+    </footer>
+
+</body>
+</html>
+
 Project Title: Where Data Meets Intelligence
 🚀 Overview
 This project is an Interactive Web Interface designed to bridge the gap between raw data sets and user-centric intelligent systems. The goal is to transform complex information into an intuitive, responsive, and visually engaging digital experience.
